@@ -1,15 +1,20 @@
 import Restrauntcard from "./Restrauntcard";
 const Cardconatiner = ()=>{
     return(
-      <>
-      <p>THis is cardconatiner section</p>
+      <div className="container d-flex flex-wrap gap-4">
       <Restrauntcard/>
       <Restrauntcard/>
       <Restrauntcard/>
       <Restrauntcard/>
       <Restrauntcard/>
       <Restrauntcard/>
-      </>
+      <Restrauntcard/>
+      <Restrauntcard/>
+      <Restrauntcard/>
+      <Restrauntcard/>
+      <Restrauntcard/>
+      <Restrauntcard/>
+      </div>
     );
   };
 
