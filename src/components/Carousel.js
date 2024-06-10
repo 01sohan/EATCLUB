@@ -1,6 +1,6 @@
 const Carousel = ()=>{
     return(
-      <div>THis is carousel section</div>
+      <div className="text-center">This is carousel section</div>
     );
   };
 

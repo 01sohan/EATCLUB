@@ -1,7 +1,7 @@
 
 const Searchbar = ()=>{
     return(
-      <div>THis is Searchbar section</div>
+      <div>This is Searchbar section</div>
     );
   };
 

@@ -1,6 +1,6 @@
 const Filters = ()=>{
     return(
-      <div>THis is Filters section</div>
+      <div>This is Filters section</div>
     );
   };
 
